@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
-*{
-  font-family: 'sans-serif';
+@font-face {
+font-family: MyFont;
+src: url(arial_font.woff);
+} 
+
+main-content {
+  font-family: MyFont;
   direction: rtl;
 }
 
