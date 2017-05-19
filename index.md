@@ -11,28 +11,3 @@
 2. نکته ی دوم این که فرستادن داده‌های حساس با استفاده از متد GET‌ کاملن اشتباه است زیرا پارامترها در این روش در url قرار می‌گیرند حال آن‌که در حالت POST در بدنه و همان‌طور که OWASP(Open Web Application Security Project) ذکر کرده‌است، دلیل این است که این اطلاعات می‌تواند در proxyها یا web server loggها مورد بررسی قرار بگیرد.
 
 3. نکته‌ی سومی که متوجه شدم آن بود که در ارسال این پسوردها برای چک کردن اگر تنها پسورد ارسال می‌شد آن‌قدر مشکلی پیش نمی‌آمد (گرچه با استفاده از روش‌های نوین امنیتی می‌توان با استفاده از ip و ... متوجه ارسال کننده‌شد حتا در حالت https) زیرا در این حالت تمام اطلاعات ارسال می‌شود و عملن map کردن افراد به پسوردهای موردنظرشان بسیار راحت است. اما اگر ایمیل و نام‌کاربری ارسال نشود این تخصیص سخت تر صورت می‌گیرد و در برخی موارد نمی‌تواند اصلن صورت بگیرد.
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ParishadBehnam/EbayPasswordResearch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
