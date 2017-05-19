@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
-title: When Ebay implements a keylogging feature!
+title: When Ebay implements a keylogging feature
+@font-face {
+font-family: MyFont;
+src: url(arial_font.woff);
+} 
+direction: rtl
+font-family: MyFont
