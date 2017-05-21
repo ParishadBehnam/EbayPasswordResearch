@@ -3,7 +3,12 @@
 
   * {
     font-family: 'Scheherazade', Tahoma;
+    font-size: 25px;
     direction: rtl;
+  }
+  
+  .page-header {
+    font-family: Tahoma;
   }
 </style>
 
