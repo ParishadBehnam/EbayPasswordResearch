@@ -1,11 +1,14 @@
- -@import "{{ site.theme }}";
- -
- -@font-face {
- -font-family: MyFont;
- -src: url(arial_font.woff);
- -} 
- -
- -* {
- -  font-family: MyFont;
- -  direction: rtl;
- -}
+---
+---
+
+@import "{{ site.theme }}";
+ 
+ @font-face {
+ font-family: MyFont;
+ src: url(arial_font.woff);
+} 
+
+* {
+  font-family: MyFont;
+  direction: rtl;
+}
