@@ -1,7 +1,5 @@
 <style>
-  @font-face {
-    @import url('https://fonts.googleapis.com/css?family=Scheherazade');
-  }
+  @import url('https://fonts.googleapis.com/css?family=Scheherazade');
 
   * {
     font-family: 'Scheherazade', Tahoma;
