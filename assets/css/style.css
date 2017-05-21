@@ -1,6 +1,3 @@
-----
- ----
- -
  -@import "{{ site.theme }}";
  -
  -@font-face {
@@ -8,7 +5,7 @@
  -src: url(arial_font.woff);
  -} 
  -
- -main-content {
+ -* {
  -  font-family: MyFont;
  -  direction: rtl;
  -}
