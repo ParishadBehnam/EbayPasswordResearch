@@ -1,13 +1,14 @@
 <style>
   @import url('https://fonts.googleapis.com/css?family=Scheherazade');
 
-  * {
+  .main-content {
     font-family: 'Scheherazade', Tahoma;
     font-size: 25px;
     direction: rtl;
   }
   
   .page-header {
+    line-height: 1;
     font-family: Tahoma;
     font-size: 15px;
   }
