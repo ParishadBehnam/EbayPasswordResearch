@@ -8,7 +8,7 @@
   }
   
   .page-header {
-    line-height: 1;
+    line-height: 1.5;
     font-family: Tahoma;
     font-size: 15px;
   }
