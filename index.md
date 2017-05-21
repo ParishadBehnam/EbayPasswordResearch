@@ -5,7 +5,7 @@
   }
 
   * {
-    font-family: Font;
+    font-family: Font, Tahoma;
     direction: rtl;
   }
 </style>
