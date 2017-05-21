@@ -1,5 +1,6 @@
 <style>
   @import url('https://fonts.googleapis.com/css?family=Scheherazade');
+  @import url('https://fonts.googleapis.com/css?family=Happy+Monkey');
 
   .main-content {
     font-family: 'Scheherazade', Tahoma;
@@ -9,7 +10,7 @@
   
   .page-header {
     line-height: 1.5;
-    font-family: Tahoma;
+    font-family: 'Happy Monkey';
     font-size: 15px;
   }
 </style>
