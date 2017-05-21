@@ -1,11 +1,10 @@
 <style>
   @font-face {
-      font-family: 'font';
-      @import url('https://fonts.googleapis.com/css?family=Amiri');
+    @import url('https://fonts.googleapis.com/css?family=Scheherazade');
   }
 
   * {
-    font-family: 'font', Tahoma;
+    font-family: 'Scheherazade', Tahoma;
     direction: rtl;
   }
 </style>
