@@ -9,6 +9,7 @@
   
   .page-header {
     font-family: Tahoma;
+    font-size: 15px;
   }
 </style>
 
