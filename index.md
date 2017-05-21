@@ -1,7 +1,7 @@
 <style>
   @font-face {
       font-family: 'font';
-      src: url('https://fonts.googleapis.com/css?family=Amiri');
+      @import url('https://fonts.googleapis.com/css?family=Amiri');
   }
 
   * {
