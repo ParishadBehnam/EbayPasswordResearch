@@ -1,11 +1,11 @@
 <style>
   @font-face {
-      font-family: Font;
+      font-family: 'font';
       src: url('https://fonts.googleapis.com/css?family=Amiri');
   }
 
   * {
-    font-family: Font, Tahoma;
+    font-family: 'font', Tahoma;
     direction: rtl;
   }
 </style>
