@@ -1,5 +1,11 @@
 <style>
+  @font-face {
+      font-family: Font;
+      src: url('https://fonts.googleapis.com/css?family=Amiri');
+  }
+
   * {
+    font-family: Font;
     direction: rtl;
   }
 </style>
